@@ -27,7 +27,7 @@ This portfolio is developed using a modern web development stack:
 
 ## 📂 Project Structure
 
-\`\`\`
+```
 ├── public/                 # Static assets (favicons, etc.)
 ├── src/
 │   ├── assets/             # Images, project screenshots, photography, and PDFs
@@ -52,7 +52,7 @@ This portfolio is developed using a modern web development stack:
 ├── package.json            # Project dependencies and npm scripts
 ├── tailwind.config.js      # Tailwind CSS configuration
 └── vite.config.js          # Vite configuration
-\`\`\`
+```
 
 ## ⚙️ Local Development Setup
 
