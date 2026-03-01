@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! This project is a complete, modern,
 
 ## 🚀 Live Demo
 
-*(Add your deployment link here once hosted, e.g., https://mahibornob.me)*
+*(Add your deployment link here once hosted, e.g., https://mahibornob.com)*
 
 ## 🛠️ Built With
 
